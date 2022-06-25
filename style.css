@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(#3873d1,#b7c92c,#ff94e4);
+}
+.heading{
+    width:95%;
+    font-size:30px;
+    
+
+}
+#camara{
+    border: ridge;
+    padding: 1;
+}
